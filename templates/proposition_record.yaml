@@ -1,0 +1,25 @@
+proposition_id:
+issue_id:
+proposition_type:
+proposition:
+conclusion:
+jurisdiction:
+actor_scope:
+data_scope:
+purpose_scope:
+territorial_scope:
+temporal_scope:
+authority_ids: []
+authority_legal_effects: []
+analogy_fit: DIRECT | STRONG_ANALOGY | LIMITED_ANALOGY | BACKGROUND_ONLY | N_A
+counter_authority_ids: []
+authority_legal_effects: []
+analogy_fit: DIRECT | STRONG_ANALOGY | LIMITED_ANALOGY | BACKGROUND_ONLY | N_A
+pinpoints: []
+material_facts: []
+assumptions: []
+limitations: []
+support_status: VERIFIED | PARTIALLY_VERIFIED | UNVERIFIED | CONFLICTED | NO_AUTHORITY_LOCATED
+legal_confidence: high | medium | low
+factual_confidence: high | medium | low
+last_verified_at:

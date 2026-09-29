@@ -1,0 +1,21 @@
+delta_id:
+source_id:
+old_version_id:
+new_version_id:
+authority:
+document:
+status:
+publication_date:
+effective_date:
+changed_text_or_rule:
+affected_issue_ids: []
+affected_proposition_ids: []
+affected_control_ids: []
+dependency_path: []
+impact_label:
+materiality: low | medium | high | critical
+prior_position:
+new_position:
+verification_status: VERIFIED | PARTIALLY_VERIFIED | UNVERIFIED_DELTA
+reanalysis_required:
+action:

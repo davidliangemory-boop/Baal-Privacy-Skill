@@ -1,0 +1,21 @@
+issue_id:
+title:
+jurisdiction: []
+topic:
+subtopic:
+business_question:
+decision_required:
+operating_mode: RAPID_SCREEN | STANDARD_ANALYSIS | FORMAL_OPINION_SUPPORT | MULTI_JURISDICTION_MATRIX | DAILY_ISSUE_BRIEF | DEEP_RESEARCH
+status: DRAFT | RESEARCHING | VERIFIED | QUALIFIED | CONFLICTED | STALE | REOPENED | ARCHIVED
+current_conclusion:
+legal_confidence:
+factual_confidence:
+forward_confidence:
+material_fact_ids: []
+proposition_ids: []
+source_ids: []
+control_ids: []
+horizon_ids: []
+last_full_review_at:
+last_delta_review_at:
+next_review_trigger:
